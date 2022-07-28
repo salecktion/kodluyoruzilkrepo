@@ -21,3 +21,5 @@ istediğinizi tartışmak için konu açınız.
 
 ## **Lisence**
 [MIT](www.patika.dev)
+
+![Proje](https://i.hizliresim.com/nej7u5b.jpg)
